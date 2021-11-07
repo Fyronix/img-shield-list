@@ -523,9 +523,8 @@ Badge | URL
 <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" /> | `https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white`
 <img src="https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white" /> | `https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white`
 
-
-
 <h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="_Office_welcomebadges4readmemdprofile_0"></a>👨‍💻 Office <a href="#welcome-badges-4-readmemd-profile">🔝</a></h2>
+
 <table class="table table-striped table-bordered">
 <thead>
 <tr>
