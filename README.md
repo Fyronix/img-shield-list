@@ -525,27 +525,85 @@ Badge | URL
 
 
 
-## 👨‍💻 Office [🔝](#welcome-badges-4-readmemd-profile)
-Badge | URL
------------- | -------------
-![](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)| `https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white) | `https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)| `https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) | `https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white) | `https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white) | `https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white) | `https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white`
-![](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white) | `https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white`
-![](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white) | `https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white`
-![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | `https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white`
-![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) | `https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white`
-![](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)| `https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white`
-![](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white) | `https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white`
-![](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white) | `https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white`
-![](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white) | `https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white`
-![](https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white)| `https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&logo=ApacheOpenOffice&logoColor=white`
-![](https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white) | `https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&logo=joplin&logoColor=white`
-
+<h2 class="code-line" data-line-start=0 data-line-end=1 ><a id="_Office_welcomebadges4readmemdprofile_0"></a>👨‍💻 Office <a href="#welcome-badges-4-readmemd-profile">🔝</a></h2>
+<table class="table table-striped table-bordered">
+<thead>
+<tr>
+<th>Badge</th>
+<th>URL</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoft-excel&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&amp;logo=microsoft-powerpoint&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&amp;logo=microsoft-powerpoint&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&amp;logo=microsoft-access&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&amp;logo=microsoft-access&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&amp;logo=microsoft-sql-server&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&amp;logo=microsoft-office&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&amp;logo=microsoft-sharepoint&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&amp;logo=microsoft-sharepoint&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&amp;logo=microsoft-word&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&amp;logo=microsoft-word&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&amp;logo=microsoft-visio&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&amp;logo=microsoft-visio&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&amp;logo=google-sheets&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&amp;logo=google-sheets&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Notion-000000?style=for-the-badge&amp;logo=notion&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&amp;logo=trello&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&amp;logo=todoist&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&amp;logo=todoist&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&amp;logo=Airtable&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&amp;logo=Airtable&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&amp;logo=Overleaf&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&amp;logo=Overleaf&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&amp;logo=LibreOffice&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&amp;logo=LibreOffice&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&amp;logo=ApacheOpenOffice&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Apache_OpenOffice-0E85CD?style=for-the-badge&amp;logo=ApacheOpenOffice&amp;logoColor=white</code></td>
+</tr>
+<tr>
+<td><img src="https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&amp;logo=joplin&amp;logoColor=white" alt=""></td>
+<td><code>https://img.shields.io/badge/Joplin-1071D3?style=for-the-badge&amp;logo=joplin&amp;logoColor=white</code></td>
+</tr>
+</tbody>
+</table>
 
 ## 💻 Workspace Spec [🔝](#welcome-badges-4-readmemd-profile)
 
